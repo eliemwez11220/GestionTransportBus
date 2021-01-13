@@ -1,0 +1,26 @@
+--------------------Compte administrateur---------
+username:admin
+password:admin01 ou 123456
+
+----------------Configuration------------------------
+Compresser le projet dans un dossier sous le nom de 
+BusManagement l'ensemble de fichier qui le constitue
+et aller dans le dossier database copier le nom du 
+fichier de la base de donnees et creer une base de 
+donnees sur votre serveur web puis importer toute 
+la structure de la base de donnees sans changer aucune
+autre configuration et lancer l'application 
+en saisissant: http://localhost/BusManagement/
+
+Done ! 
+En cas de besoin n'hesitez pas de me contacter
+-------------------------------------My name is----------------
+Elie Mwez
+Developpeur Mobile et Web Full Stack
+Concepteur des Systemes d'information
+ 
+Contact to:
+eliemwez.rubuz@gmail.com
+www.congoagile.com
+
+From Lubumbashi in D.R.Congo
